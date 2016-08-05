@@ -1,0 +1,34 @@
+.d1{
+	background-color: #ee3e64 ; /*rojo*/
+	top:0px;
+	left:0px;
+}
+
+.d2{
+	background-color: #0300f6; /*azul*/
+	top:0px;
+	right:0px;
+}
+
+.d3{
+	background-color: #b7d84b; /*verde*/
+	bottom:0px;
+	left:0px;
+
+}
+
+.d4{
+	background-color: #FF0; /*amarillo*/
+	bottom:0px;
+	right:0px; 
+}
+div{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+body{
+	margin:0;
+	padding: 0;
+}
